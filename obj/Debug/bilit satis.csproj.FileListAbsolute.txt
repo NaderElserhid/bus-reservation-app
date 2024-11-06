@@ -1,0 +1,10 @@
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\bin\Debug\bilit satis.exe.config
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\bin\Debug\bilit satis.exe
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\bin\Debug\bilit satis.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit satis.csproj.AssemblyReference.cache
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit_satis.Form1.resources
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit_satis.Properties.Resources.resources
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit satis.csproj.GenerateResource.cache
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit satis.csproj.CoreCompileInputs.cache
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit satis.exe
+C:\Users\nadir\OneDrive\Desktop\C#\university\bilit satis\obj\Debug\bilit satis.pdb
